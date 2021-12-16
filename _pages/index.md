@@ -2,7 +2,7 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: 解忧★ㄣ客栈的博客
+title: 欢迎来到解忧★ㄣ客栈
 ---
 
 巴拉喇叭拉拉阿拉啦啦啦
