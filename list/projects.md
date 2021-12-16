@@ -1,5 +1,5 @@
 ---
-title: Documentation
+title: Open-source
 narrow: true
 permalink: list/projects.html
 show_profile: true
