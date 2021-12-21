@@ -2,7 +2,6 @@
 title: QGIS_01_地理信息系统概论
 tags:
   - Qgis
-  - Python
 ---
 [参考**麻辣GIS**](https://malagis.com/qgis-handbook-index.html)  
 
