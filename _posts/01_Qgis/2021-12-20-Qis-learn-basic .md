@@ -11,7 +11,7 @@ tags:
 ## 1-1 初识界面
 **1.Qgis中文界面的设置如下所示** 
 
-<img src="{{site.url}}/theme/img/2.png" >  
+![](https://cdn.jsdelivr.net/gh/wangmengyun1998/Blog_img/img/202112/2.png) 
  
 <!-- <img src="{{site.url}}/theme/img/2.png">  -->
 
