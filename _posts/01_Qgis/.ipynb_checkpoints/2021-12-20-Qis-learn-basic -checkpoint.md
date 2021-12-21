@@ -38,7 +38,8 @@ tags:
 **第一种**：在`Browser`界面可以看到本次路径，找到你存放shp的路径即可，在`Layers`中可以看到加载进来的shp 
 
 <img src="{{site.url}}/theme/img/8.png" >   
-<img src="{{site.url}}./theme/img/9.png" >     
+
+<img src="{{site.url}}/theme/img/9.png" >     
  
  **第二种**：在左侧找到`Vector`->在`Source`下找到shp文件路径，最后点击`Add`
  
@@ -48,7 +49,8 @@ tags:
   
 **第三种**:点击`Layers`->`Data Source Manager`,在找到`Vector`->在`Source`下找到shp文件路径，最后点击`Add`即可  
 
-<img src="{{site.url}}/theme/img/11.png" >   
+<img src="{{site.url}}/theme/img/11.png" >
+
 <img src="{{site.url}}/theme/img/12.png" >
 
 **4.在用第二种、第三种加载shp时，会遇到下面的几个文件，那么shp、shx、dbf、prj、xml都是什么文件、都有什么作用?**        
@@ -71,5 +73,96 @@ Shapefile使用点、线、多边形存储要素的形状，具有简单、快�
 
 **5.在`Layers`中右击导入的shp，点击`Open Attribute Table`,可以看到一些属性信息**
 
-<img src="{{site.url}}/theme/img/14.png" >
+<img src="{{site.url}}/theme/img/14.png" >   
+
+如果想要看到某个区域的属性信息，可点击`Identify Features `->选中区域上的某个子区域 
+
+<img src="{{site.url}}/theme/img/15.png" > 
+
+若没有找到`Identify Features `按钮，可勾选`View`->`Toolbars`->`Attributes Toolbar`
+
+**6.`Open Attribute Table`里的一些基本操作**  
+
+<img src="{{site.url}}/theme/img/16.png" >   
+
+<img src="{{site.url}}/theme/img/17.png" >   
+
+<img src="{{site.url}}/theme/img/18.png" >    
+
+<img src="{{site.url}}/theme/img/19.png" >   
+
+<img src="{{site.url}}/theme/img/20.png" >   
+
+除了在`Open Attribute Table`里面直接操作外，我们还可以在外部进行上述操作，首先勾选`View`->`Toolbars`->`Selection Toolbar`  
+
+<img src="{{site.url}}/theme/img/21.png" >   
+
+<img src="{{site.url}}/theme/img/22.png" > 
+
+**7.`Properties...`里的一些基本操作,可选中shp，右键在底部可看到`Properties...`，也可直接双击导入的shp图层，进入`Properties...`**     
+
+<img src="{{site.url}}/theme/img/23.png" >   
+
+<img src="{{site.url}}/theme/img/24.png" >   
+
+<img src="{{site.url}}/theme/img/25.png" >   
+
+<img src="{{site.url}}/theme/img/26.png" >  
+
+**8.勾选`View`->`Toolbars`->`Map Navigation Toolbar`**    
+
+<img src="{{site.url}}/theme/img/27.png" >   
+
+<img src="{{site.url}}/theme/img/28.png" >  
+
+**9.制备点、线的shpfile文件,找到`New Shapefiled Layer...`**
+ 
+<img src="{{site.url}}/theme/img/29.png" >  
+
+**第一种：点shp文件**   
+
+<img src="{{site.url}}/theme/img/30.png" >   
+
+<img src="{{site.url}}/theme/img/31.png" >  
+
+<img src="{{site.url}}/theme/img/32.png" >  
+
+<img src="{{site.url}}/theme/img/33.png" >
+
+<img src="{{site.url}}/theme/img/34.png" >  
+
+<img src="{{site.url}}/theme/img/35.png" > 
+
+**第二种：线shp文件**   
+
+<img src="{{site.url}}/theme/img/36.png" >   
+
+<img src="{{site.url}}/theme/img/37.png" >   
+
+<img src="{{site.url}}/theme/img/38.png" >   
+
+<img src="{{site.url}}/theme/img/39.png" >    
+
+**9.导出Map，`project`->`New Print Layout...`->`Create Print Layout`**    
+
+<img src="{{site.url}}/theme/img/40.png" >    
+
+<img src="{{site.url}}/theme/img/41.png" >   
+
+<img src="{{site.url}}/theme/img/42.png" >   
+
+<img src="{{site.url}}/theme/img/43.png" >     
+
+<img src="{{site.url}}/theme/img/44.png" >    
+
+<img src="{{site.url}}/theme/img/45.png" >    
+ 
+**导出的结果如下所示**  
+
+<img src="{{site.url}}/theme/img/46.png" width = "1200"  height = "800" > 
+
+
+
+
+
 
