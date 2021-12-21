@@ -6,7 +6,8 @@ tags:
 
 [油管视频](https://www.youtube.com/watch?v=Eg4_duqH5Q4 )   
 点击[这里](https://qgis.org/en/site/forusers/download.html)下载安装Qgis，一路默认安装就可以了，**注意Qgis安装路径不要有中文，要不然容易出错**。
-<!--more-->
+<!--more-->  
+
 **1.Qgis中文界面的设置如下所示** 
 
 ![](https://cdn.jsdelivr.net/gh/wangmengyun1998/Blog_img/img/202112/2.png) 
