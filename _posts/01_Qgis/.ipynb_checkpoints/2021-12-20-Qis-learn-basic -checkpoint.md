@@ -11,7 +11,9 @@ tags:
 ## 1-1 初识界面
 **1.Qgis中文界面的设置如下所示** 
 
-<img src="{{site.url}}/theme/img/2.png" >  
+<figure>
+<a><img src="{{site.url}}/theme/img/2.png" >  
+<figure>  
 
 <!-- <img src="{{site.url}}/theme/img/2.png">  -->
 
@@ -69,7 +71,8 @@ Shapefile使用点、线、多边形存储要素的形状，具有简单、快�
 - *.sbn文件和*.sbx文件，这两个存储的是shapefile的空间索引，它能加速空间数据的读取。这两个文件是在对数据进行操作、浏览或连接后才产生的  
 
 虽然Shapefile无法存储拓扑关系，但它并不仅仅是普通用于显示的图形文件，作为地理数据，它自身是有拓扑的。比如一个多边形要素类，shapefile会按顺时针方向为它的所有顶点排序，然后按顶点顺序两两连接成的边线向量，在向量右侧的为多边形的内部，在向量左侧的是多边形的外部。
-<img src="{{site.url}}/theme/img/13.png" >  
+
+<img src="{{site.url}}/theme/img/13.png" >    
 
 **5.在`Layers`中右击导入的shp，点击`Open Attribute Table`,可以看到一些属性信息**
 
