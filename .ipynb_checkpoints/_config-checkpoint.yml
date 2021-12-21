@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 # Config for your profile.
 title:           解忧★ㄣ客栈           # Site title
 name:             Wmyun            # Your name
-avatar:           /theme/img/avatar.jpg  # Path to an avatar image
+avatar:           /theme/img/202112/avatar.jpg  # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.

@@ -18,7 +18,7 @@
 
 
 
-<center><img src="{{site.url}}/theme/img/小鸡.gif" >     <img src="{{site.url}}/theme/img/小鸡2.gif" >     <img src="{{site.url}}/theme/img/小鸡3.gif" >     <img src="{{site.url}}/theme/img/小鸡4.gif" >     <img src="{{site.url}}/theme/img/小鸡5.gif" > </center> 
+<center><img src="https://cdn.jsdelivr.net/gh/wangmengyun1998/Blog_img/img/202112/小鸡.gif" >     <img src="https://cdn.jsdelivr.net/gh/wangmengyun1998/Blog_img/img/202112/小鸡2.gif" >     <img src="https://cdn.jsdelivr.net/gh/wangmengyun1998/Blog_img/img/202112/小鸡3.gif" >     <img src="https://cdn.jsdelivr.net/gh/wangmengyun1998/Blog_img/img/202112/小鸡4.gif" >     <img src="https://cdn.jsdelivr.net/gh/wangmengyun1998/Blog_img/img/202112/小鸡5.gif" > </center> 
 
     
         
