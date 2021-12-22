@@ -2,9 +2,10 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: <font color=BlueViolet face="华文行楷" size=7>欢迎来到解忧★ㄣ客栈</font>
+<!-- title: <font color=BlueViolet face="华文行楷" size=7>解忧★ㄣ客栈</font> -->
+title: chi Ki Chi Ki Chi 
 ---
-<meta name="referrer" content="no-referrer" />
+<!-- <meta name="referrer" content="no-referrer" />
 ![][img6]
 ![][img5]
 ![][img4]
@@ -25,7 +26,7 @@ title: <font color=BlueViolet face="华文行楷" size=7>欢迎来到解忧★�
 [img6]: https://c-ssl.duitang.com/uploads/item/202004/10/20200410101437_wdizF.thumb.300_300_c.jpeg
 [img7]: https://c-ssl.duitang.com/uploads/item/202004/10/20200410101438_J8vff.thumb.300_300_c.jpeg
 [img8]: https://c-ssl.duitang.com/uploads/item/202004/10/20200410101439_cVcLx.thumb.300_300_c.jpeg
-[img9]: https://c-ssl.duitang.com/uploads/item/202004/10/20200410101439_yhUv3.thumb.300_300_c.jpeg
+[img9]: https://c-ssl.duitang.com/uploads/item/202004/10/20200410101439_yhUv3.thumb.300_300_c.jpeg -->
 
 <style>
 img {
